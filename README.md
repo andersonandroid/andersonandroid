@@ -11,7 +11,7 @@ Sou entusiasta em tecnologia 👨🏻💻. Tenho o desejo de inventar o amanhã,
 A informação :gem: é um patrimônio intangível, que quando lapidado pode transformar uma sociedade. 
 </p>
 
-<h2 align="left">Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
+<h2 align="left">Technology Stack <img src="https://github.com/andersonandroid/andersonandroid/blob/main/laptop.gif" width="50"></h2>
 
 **Aplicações e Dados**
 <p align="left">
