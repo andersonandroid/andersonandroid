@@ -56,7 +56,7 @@ Veja as áreas de estudo:
 * **Computação Forense e Pericia Digital:** https://bit.ly/32euXdr
 * **Código em Python:** https://bit.ly/3yBaQCs
 
----
+
 
 ## About me
 
@@ -66,7 +66,7 @@ Sou Arquiteto e Consultor de Software nas empresas I3 e AI-HUB em Salvador-BA. A
 * Graduação em Análise de Sistemas para Internet pela UNIFACS.
 * Pos Graduação em Computação Foorense e Pericia Digital pelo IPOG.
 
----
+
 
 <h3 align="left">Connect with me:</h3>
 <br>
