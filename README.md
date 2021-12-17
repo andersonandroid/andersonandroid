@@ -13,7 +13,7 @@
 
 Sou entusiasta em tecnologia 👨🏻💻. Tenho o desejo de inventar o amanhã, e poder ajudar a movimentar o mundo 💡.
 A informação :gem: é um patrimônio intangível, que quando lapidado pode transformar uma sociedade. 
-É o ativo mais importante do mundo.
+
 </p>
 
 <h2 align="left">Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
