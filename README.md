@@ -23,7 +23,6 @@ A informação :gem: é um patrimônio intangível, que quando lapidado pode tra
 <img src="https://img.shields.io/badge/PostgreSQL-00599C?style=flat-square&logo=PostgreSQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c"/>
 <img src="https://img.shields.io/badge/-PHP-1572B6?style=flat-square&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Linux-white?style=flat-square&logo=linux&logoColor=black">
 <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"/>
