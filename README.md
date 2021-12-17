@@ -64,7 +64,7 @@ Sou Arquiteto e Consultor de Software nas empresas I3 e AI-HUB em Salvador-BA. A
 
 * Técnico em Processamento de Dados pela Escola de Engenharia.
 * Graduação em Análise de Sistemas para Internet pela UNIFACS.
-* Pos Graduação em Computação Foorense e Pericia Digital pelo IPOG.
+* Pós-Graduação em Computação Foorense e Pericia Digital pelo IPOG.
 
 
 
