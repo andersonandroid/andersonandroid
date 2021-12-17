@@ -49,13 +49,24 @@ A informação :gem: é um patrimônio intangível, que quando lapidado pode tra
  <img src="https://img.shields.io/badge/-Shell_Script-232F3E?style=flat-square&logo=gnu-bash&logoColor=white"/>
 </p>
 
-## Projetos:
+## Projects
 Veja as áreas de estudo:
 
 * **Tecnologias para Data Science:** https://bit.ly/326Jpoj
 * **Computação Forense e Pericia Digital:** https://bit.ly/32euXdr
 * **Código em Python:** https://bit.ly/3yBaQCs
 
+---
+
+## About me
+
+Sou Arquiteto de Software na empresa I3 e consultor na empresa AI-HUB em Salvador-BA. Atuo como Perito Digital Forense em processos judiciais e em resposta a incidentes de segurança. Autor do *Livro Cuidados com as Edificações - Capítulo: SISTEMAS DE AUTOMAÇÃO CONDOMINIAL* (https://amzn.to/32ez6hv).
+
+* Técnico em Processamento de Dados pela Escola de Engenharia.
+* Graduação em Análise de sistemas para Internet pela UNIFACS.
+* Pos Graduação em Computação Foorense e Pericia Digital pelo IPOG.
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <br>
