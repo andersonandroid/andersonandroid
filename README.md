@@ -53,7 +53,7 @@ A informação :gem: é um patrimônio intangível, que quando lapidado pode tra
 Veja as áreas de estudo:
 
 * **Tecnologias para Data Science:** https://bit.ly/326Jpoj
-* **Computação Forense e Pericia Digital:** https://bit.ly/2Li5pzY
+* **Computação Forense e Pericia Digital:** https://bit.ly/32euXdr
 * **Código em Python:** https://bit.ly/3yBaQCs
 
 
