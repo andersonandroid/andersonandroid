@@ -34,7 +34,7 @@ A informação :gem: é um patrimônio intangível, que quando lapidado pode tra
 **Utilidades**
 <p align="left">
 <img src="https://img.shields.io/badge/-Insomnia-333333?style=flat-square&logo=insomnia&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Postman-333333?style=flat-square&logo=insomnia&logoColor=postman"/>
+<img src="https://img.shields.io/badge/-Postman-333333?style=flat-square&logo=postman&logoColor=white"/>
 </p>
 
 **DevOps**
@@ -42,13 +42,15 @@ A informação :gem: é um patrimônio intangível, que quando lapidado pode tra
 <img src="https://img.shields.io/badge/-Digital Ocean-0080FF?style=flat-square&logo=digitalocean&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Linux-E34F26?style=flat-square&logo=linux&logoColor=black">
 <img src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
-
 </p>
 
+**Ferramentas de Desenvolvimento**
 
-
-
-
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+  ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
+  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+  ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC)
 
 
 
