@@ -1,7 +1,6 @@
 <p align="center">
  
-</p align="center">
-<img align="center" alt="Coding" width="400" src="https://files.readme.io/8c11911-senior-front-end-developer-openings-1.gif">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <br>
 
@@ -10,31 +9,50 @@
 
 
 
-<p align="center">
+<p align="left">
 A Inovação é a certeza que os momentos não se repetem.
 Sou entusiasta em tecnologia 👨🏻💻. Tenho o desejo de inventar o amanhã, e poder ajudar a movimentar o mundo 💡.
 A informação :gem: é um patrimônio intangível, que quando lapidado pode transformar uma sociedade. 
 É o ativo mais importante do mundo.
 </p>
 
-<h2 align="center">Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
+<h2 align="left">Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
 
-<p align="center">
-<img src="https://img.shields.io/badge/PostgreSQL-00599C?style=flat-square&logo=PostgreSQL&logoColor=white"/>
-<img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c"/>
+**Aplicações e Dados**
+<p align="left">
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=PostgreSQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/-PHP-1572B6?style=flat-square&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Linux-white?style=flat-square&logo=linux&logoColor=black">
-<img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"/>
-<img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python&logoColor=yellow"/>
-
-<img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
-
-<img src="https://img.shields.io/badge/-Digital Ocean-black?style=flat-square&logo=digitalocean"/>
-
-<img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
-<img src="https://img.shields.io/badge/-IOT-black?style=flat-square&logo=arduino"/>
+<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/-IOT-239120?style=flat-square&logo=arduino&logoColor=white"/>
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/-Shell_Script-121011?style=flat-square&logo=gnu-bash&logoColor=white"/>
+<img src="https://img.shields.io/badge/-MySQL-00000F?style=flat-square&logo=mysql&logoColor=white"/>
 </p>
+
+**Utilidades**
+<p align="left">
+<img src="https://img.shields.io/badge/-Insomnia-333333?style=flat-square&logo=insomnia&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Postman-333333?style=flat-square&logo=insomnia&logoColor=postman"/>
+</p>
+
+**DevOps**
+<p align="left">
+<img src="https://img.shields.io/badge/-Digital Ocean-0080FF?style=flat-square&logo=digitalocean&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Linux-E34F26?style=flat-square&logo=linux&logoColor=black">
+<img src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+
+</p>
+
+
+
+
+
+
+
+
+
 
 
 <h3 align="left">Connect with me:</h3>
