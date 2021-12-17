@@ -1,5 +1,7 @@
-
-<img align="right" alt="Coding" width="400" src="https://files.readme.io/8c11911-senior-front-end-developer-openings-1.gif">
+<p align="center">
+ 
+</p align="center">
+<img align="center" alt="Coding" width="400" src="https://files.readme.io/8c11911-senior-front-end-developer-openings-1.gif">
 
 <br>
 
