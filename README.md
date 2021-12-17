@@ -9,7 +9,13 @@
 <sub>*Software Architec / Perito Forense Digital*</sub>
 
 
-**Inovação** é a certeza que os momentos não se repetem.
+
+<p align="center">
+A Inovação é a certeza que os momentos não se repetem.
+Sou entusiasta em tecnologia 👨🏻💻. Tenho o desejo de inventar o amanhã, e poder ajudar a movimentar o mundo 💡.
+A informação :gem: é um patrimônio intangível, que quando lapidado pode transformar uma sociedade. 
+É o ativo mais importante do mundo.
+</p>
 
 <h2 align="center">Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
 
@@ -28,7 +34,7 @@
 <img src="https://img.shields.io/badge/-Digital Ocean-black?style=flat-square&logo=digitalocean"/>
 
 <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
-<img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
+<img src="https://img.shields.io/badge/-IOT-black?style=flat-square&logo=arduino"/>
 </p>
 
 
