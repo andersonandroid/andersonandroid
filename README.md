@@ -54,7 +54,7 @@ Veja as áreas de estudo:
 
 * **Tecnologias para Data Science:** https://bit.ly/326Jpoj
 * **Computação Forense e Pericia Digital:** https://bit.ly/2Li5pzY
-* **Code em Python:** https://bit.ly/2Ubr5SH
+* **Código em Python:** https://bit.ly/3yBaQCs
 
 
 <h3 align="left">Connect with me:</h3>
