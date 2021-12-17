@@ -60,7 +60,7 @@ Veja as áreas de estudo:
 
 ## About me
 
-Sou Arquiteto de Software na empresa I3 e consultor na empresa AI-HUB em Salvador-BA. Atuo como Perito Digital Forense em processos judiciais e em resposta a incidentes de segurança. Autor do *Livro Cuidados com as Edificações - Capítulo: SISTEMAS DE AUTOMAÇÃO CONDOMINIAL* (https://amzn.to/32ez6hv).
+Sou Arquiteto de Software na empresa I3 e Consultor na empresa AI-HUB em Salvador-BA. Atuo como Perito Digital Forense em processos judiciais, pericia investigativa e em resposta a incidentes de segurança. Autor do *Livro Cuidados com as Edificações - Capítulo: Sistemas de Automação Condominial* (https://amzn.to/32ez6hv).
 
 * Técnico em Processamento de Dados pela Escola de Engenharia.
 * Graduação em Análise de sistemas para Internet pela UNIFACS.
