@@ -38,8 +38,11 @@ A informação :gem: é um patrimônio intangível, que quando lapidado pode tra
 <img src="https://img.shields.io/badge/-Digital Ocean-0080FF?style=flat-square&logo=digitalocean&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Linux-E34F26?style=flat-square&logo=linux&logoColor=black">
- <img src="https://img.shields.io/badge/-Apache-CA2136?style=flat-square&logo=apache&logoColor=white">
+<img src="https://img.shields.io/badge/-Apache-CA2136?style=flat-square&logo=apache&logoColor=white">
 <img src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Git-E34F26?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/-GitHub-100000?style=flat-square&logo=githubt&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Bitbucket-330F63?style=flat-square&logo=bitbucket&logoColor=white"/>
 </p>
 
 **Ferramentas de Desenvolvimento**
