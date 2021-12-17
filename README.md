@@ -1,19 +1,14 @@
 <p align="center">
- 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-
 <br>
 
 ## A Inovação é a certeza que os momentos não se repetem.
 <sub>*Software Architec / Perito Forense Digital*</sub>
 
 
-
 <p align="left">
-
 Sou entusiasta em tecnologia 👨🏻💻. Tenho o desejo de inventar o amanhã, e poder ajudar a movimentar o mundo 💡.
 A informação :gem: é um patrimônio intangível, que quando lapidado pode transformar uma sociedade. 
-
 </p>
 
 <h2 align="left">Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
@@ -51,14 +46,15 @@ A informação :gem: é um patrimônio intangível, que quando lapidado pode tra
 <p align="left">
  <img src="https://img.shields.io/badge/-Visual%20Studio%20-0080FF?style=flat-square&logo=visual-studio-code&logoColor=white"/>
  <img src="https://img.shields.io/badge/-Atom-4EA94B?style=flat-square&logo=atom&logoColor=white"/>
- 
  <img src="https://img.shields.io/badge/-Shell_Script-232F3E?style=flat-square&logo=gnu-bash&logoColor=white"/>
-  
-  
-  
 </p>
 
+## Projetos:
+Veja as áreas de estudo:
 
+* **Tecnologias para Data Science:** https://bit.ly/2L2cMwy
+* **Computação Forense e Pericia Digital:** https://bit.ly/2Li5pzY
+* **Code em Python:** https://bit.ly/2Ubr5SH
 
 
 <h3 align="left">Connect with me:</h3>
@@ -70,6 +66,8 @@ A informação :gem: é um patrimônio intangível, que quando lapidado pode tra
 <a href="https://www.facebook.com/anderson.santana.39589" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="" height="30" width="40" /></a>
 <a href="https://www.andersonsantanadev.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/sitepoint.svg" alt="" height="30" width="40" /></a>
 </p>
+
+
 
 
 
