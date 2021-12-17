@@ -27,32 +27,36 @@ A informação :gem: é um patrimônio intangível, que quando lapidado pode tra
 <img src="https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/-IOT-239120?style=flat-square&logo=arduino&logoColor=white"/>
 <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/-Shell_Script-121011?style=flat-square&logo=gnu-bash&logoColor=white"/>
+ <img src="https://img.shields.io/badge/-SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/-MySQL-00000F?style=flat-square&logo=mysql&logoColor=white"/>
 </p>
 
 **Utilidades**
 <p align="left">
-<img src="https://img.shields.io/badge/-Insomnia-333333?style=flat-square&logo=insomnia&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Postman-333333?style=flat-square&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Insomnia-5C2D91?style=flat-square&logo=insomnia&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Postman-E34F26?style=flat-square&logo=postman&logoColor=white"/>
 </p>
 
 **DevOps**
 <p align="left">
 <img src="https://img.shields.io/badge/-Digital Ocean-0080FF?style=flat-square&logo=digitalocean&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Linux-E34F26?style=flat-square&logo=linux&logoColor=black">
+ <img src="https://img.shields.io/badge/-Apache-CA2136?style=flat-square&logo=apache&logoColor=white">
 <img src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
 </p>
 
 **Ferramentas de Desenvolvimento**
-
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
-  ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
-  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
-  ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC)
-
-
+<p align="left">
+ <img src="https://img.shields.io/badge/-Visual%20Studio%20-0080FF?style=flat-square&logo=visual-studio-code&logoColor=white"/>
+ <img src="https://img.shields.io/badge/-Atom-4EA94B?style=flat-square&logo=atom&logoColor=white"/>
+ 
+ <img src="https://img.shields.io/badge/-Shell_Script-232F3E?style=flat-square&logo=gnu-bash&logoColor=white"/>
+  
+  
+  
+</p>
 
 
 
