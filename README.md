@@ -4,13 +4,13 @@
 
 <br>
 
-## Anderson Santana
+## A Inovação é a certeza que os momentos não se repetem.
 <sub>*Software Architec / Perito Forense Digital*</sub>
 
 
 
 <p align="left">
-A Inovação é a certeza que os momentos não se repetem.
+
 Sou entusiasta em tecnologia 👨🏻💻. Tenho o desejo de inventar o amanhã, e poder ajudar a movimentar o mundo 💡.
 A informação :gem: é um patrimônio intangível, que quando lapidado pode transformar uma sociedade. 
 É o ativo mais importante do mundo.
