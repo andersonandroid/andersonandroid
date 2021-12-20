@@ -57,7 +57,8 @@ Veja as áreas de estudo:
 
 * **Tecnologias para Data Science:** https://bit.ly/326Jpoj
 * **Computação Forense e Pericia Digital:** https://bit.ly/32euXdr
-* **Código em Python:** https://bit.ly/3yBaQCs
+* **Soluções em Python:** https://bit.ly/3yBaQCs
+* **Tencologia IOT:** https://bit.ly/3yBaQCs
 
 
 
