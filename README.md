@@ -47,6 +47,7 @@
 Mantenho-me em **constante atualização sobre novas tendências** em **arquitetura de software e linguagens**, com um **compromisso firme em melhorar a segurança e a acessibilidade das informações**.
 
 ### 💻 Linguagens e Frameworks
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="300px" align="right">
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" title="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" title="JavaScript"/>
@@ -58,8 +59,6 @@ Mantenho-me em **constante atualização sobre novas tendências** em **arquitet
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" title="CSS3"/>
   <img src="https://www.svgrepo.com/show/331455/keycloak.svg" width="50" title="Keycloak"/>
 </p>
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="300px" align="right">
 
 ### ⚙️ Ferramentas e DevOps
 <p align="left">
