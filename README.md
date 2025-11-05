@@ -21,7 +21,7 @@
 ---
 
 ## 🧠 Computação Forense e Perícia Digital
-<img src="https://www.svgrepo.com/show/533606/fingerprint-circle-gradient.svg" width="100" title="Biometria Neon"/>
+<img src="https://www.svgrepo.com/show/506943/fingerprint-scan.svg" width="90" alt="Biometria Azul"/>
 
 🎓 Pós-graduado em **Computação Forense e Perícia Digital**  
 💼 Atuação como **Assistente Técnico Judicial** e **Consultor em Segurança da Informação**  
