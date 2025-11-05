@@ -59,7 +59,7 @@ Mantenho-me em **constante atualização sobre novas tendências** em **arquitet
   <img src="https://www.svgrepo.com/show/331455/keycloak.svg" width="50" title="Keycloak"/>
 </p>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="300px" align="right">
 
 ### ⚙️ Ferramentas e DevOps
 <p align="left">
