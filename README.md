@@ -71,8 +71,9 @@ Mantenho-me em **constante atualização sobre novas tendências** em **arquitet
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="50" title="Flask"/>
 
   <!-- Ícones corrigidos -->
-  <img src="https://cdn.simpleicons.org/amazonaws/FF9900" width="50" title="AWS"/>
-  <img src="https://cdn.simpleicons.org/keycloak/2C2C2C" width="50" title="Keycloak"/>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" width="90" title="AWS"/>
+  <img src="https://img.shields.io/badge/Keycloak-2C2C2C?style=flat-square&logo=keycloak&logoColor=white" width="90" title="Keycloak"/>
+
 </p>
 
 
