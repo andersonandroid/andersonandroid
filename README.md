@@ -63,7 +63,7 @@ Mantenho-me em **constante atualização sobre novas tendências** em **arquitet
 ---
 
 ## 🧠 Computação Forense e Perícia Digital
-<img src="https://www.svgrepo.com/show/506943/fingerprint-scan.svg" width="90" alt="Biometria Azul"/>
+[<img src="https://www.svgrepo.com/show/506943/fingerprint-scan.svg" width="90" alt="Biometria Azul"/>](https://chatgpt.com/backend-api/estuary/content?id=file_00000000863c71f5a966c4b5987c8afb&ts=489548&p=fs&cid=1&sig=7a722c653672323b9f042cac0d7acf4cc97b9b28bf6faebf3f8f26a8d2e25fc0&v=0)
 
 🎓 Pós-graduado em **Computação Forense e Perícia Digital**  
 💼 Atuação como **Assistente Técnico Judicial** e **Consultor em Segurança da Informação**  
