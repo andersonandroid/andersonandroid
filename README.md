@@ -69,19 +69,11 @@ Mantenho-me em **constante atualização sobre novas tendências** em **arquitet
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" title="GitHub"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="50" title="FastAPI"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="50" title="Flask"/>
- <!-- GitHub (versão branca para dark mode) -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="50" title="GitHub" style="filter: invert(1);"/>
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="50" title="FastAPI"/>
-  
-  <!-- Flask (ícone branco customizado para dark mode) -->
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/flask.svg" width="50" title="Flask" style="filter: invert(1);"/>
-
-  <!-- AWS e Keycloak via Shields (cores estáveis) -->
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" width="90" title="AWS"/>
-  <img src="https://img.shields.io/badge/Keycloak-2C2C2C?style=flat-square&logo=keycloak&logoColor=white" width="90" title="Keycloak"/>
+ 
   <!-- Ícones corrigidos -->
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" width="90" title="AWS"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
+          
   <img src="https://img.shields.io/badge/Keycloak-2C2C2C?style=flat-square&logo=keycloak&logoColor=white" width="90" title="Keycloak"/>
 
 </p>
