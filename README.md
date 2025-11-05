@@ -29,13 +29,6 @@
 ### 🧰 Ferramentas Forenses
 `Autopsy` • `FTK` • `EnCase` • `IPED` • `Wireshark` • `Volatility` • `YARA` • `Cellebrite` • `Timesketch` • `Ghidra` • `Any.Run`
 
-<p align="left">
-  <img src="https://img.icons8.com/color/48/wireshark.png" title="Wireshark"/>
-  <img src="https://img.icons8.com/fluency/48/python.png" title="Python"/>
-  <img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/external-magnifier-legal-flatart-icons-outline-flatarticons.png" title="Investigação Digital"/>
-  <img src="https://img.icons8.com/color/48/linux--v1.png" title="Linux Forense"/>
-</p>
-
 ---
 
 ## ⚙️ Arquitetura de Software e Backend Engineering
