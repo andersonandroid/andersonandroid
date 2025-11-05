@@ -60,7 +60,6 @@ Mantenho-me em **constante atualização sobre novas tendências** em **arquitet
 ### ☁️ Tecnologias e Ferramentas
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" title="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="50" title="AWS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" title="Linux"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" title="PostgreSQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" title="MongoDB"/>
@@ -68,8 +67,12 @@ Mantenho-me em **constante atualização sobre novas tendências** em **arquitet
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" title="GitHub"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="50" title="FastAPI"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="50" title="Flask"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keycloak/keycloak-original.svg" width="50" title="Keycloak"/>
+
+  <!-- Ícones corrigidos -->
+  <img src="https://cdn.simpleicons.org/amazonaws/FF9900" width="50" title="AWS"/>
+  <img src="https://cdn.simpleicons.org/keycloak/2C2C2C" width="50" title="Keycloak"/>
 </p>
+
 
 ---
 
