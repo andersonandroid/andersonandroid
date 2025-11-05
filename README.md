@@ -39,7 +39,6 @@
 ---
 
 ## ⚙️ Arquitetura de Software e Backend Engineering
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="200px" align="right">
 
 💡 Profissional sênior com 28 anos de experiência em **desenvolvimento e arquitetura de sistemas**  
 🧩 Foco em **robustez, segurança, escalabilidade** e **integração com tecnologias embarcadas**  
@@ -59,6 +58,8 @@ Mantenho-me em **constante atualização sobre novas tendências** em **arquitet
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" title="CSS3"/>
   <img src="https://www.svgrepo.com/show/331455/keycloak.svg" width="50" title="Keycloak"/>
 </p>
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="200px" align="right">
 
 ### ⚙️ Ferramentas e DevOps
 <p align="left">
