@@ -21,6 +21,7 @@
 ---
 
 ## 🧠 Computação Forense e Perícia Digital
+<img src="https://www.svgrepo.com/show/335482/fingerprint-scan.svg" width="100" title="Biometria Branca"/>
 
 🎓 Pós-graduado em **Computação Forense e Perícia Digital**  
 💼 Atuação como **Assistente Técnico Judicial** e **Consultor em Segurança da Informação**  
