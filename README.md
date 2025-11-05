@@ -74,7 +74,7 @@ Mantenho-me em **constante atualização sobre novas tendências** em **arquitet
 
   
 
-  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />](https://www.svgrepo.com/show/331455/keycloak.svg)        
+[<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />](https://www.svgrepo.com/show/331455/keycloak.svg)        
           
           
   <img src="https://img.shields.io/badge/Keycloak-2C2C2C?style=flat-square&logo=keycloak&logoColor=white" width="90" title="Keycloak"/>
