@@ -1,6 +1,7 @@
 <!-- CABEÇALHO -->
 
 <h1 align="center">👋 Olá, eu sou <strong>Anderson Santana</strong></h1>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 <h3 align="center">🔒 Perito Digital | 🧠 Arquiteto de Software | ⚙️ Backend Engineer</h3>
 
 <p align="center">
