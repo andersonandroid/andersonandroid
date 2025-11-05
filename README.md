@@ -19,19 +19,6 @@
 </p>
 
 ---
-
-## 🧠 Computação Forense e Perícia Digital
-<img src="https://www.svgrepo.com/show/506943/fingerprint-scan.svg" width="90" alt="Biometria Azul"/>
-
-🎓 Pós-graduado em **Computação Forense e Perícia Digital**  
-💼 Atuação como **Assistente Técnico Judicial** e **Consultor em Segurança da Informação**  
-🔍 Experiência sólida em **análise de incidentes**, **auditoria de sistemas** e **investigações digitais complexas**
-
-### 🧰 Ferramentas Forenses
-`Autopsy` • `FTK` • `EnCase` • `IPED` • `Wireshark` • `Volatility` • `YARA` • `Cellebrite` • `Timesketch` • `Ghidra` • `Any.Run`
-
----
-
 ## ⚙️ Arquitetura de Software e Backend Engineering
 
 💡 Profissional sênior com 28 anos de experiência em **desenvolvimento e arquitetura de sistemas**  
@@ -73,6 +60,17 @@ Mantenho-me em **constante atualização sobre novas tendências** em **arquitet
   <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white" title="Raspberry Pi"/>
 </p>
 
+---
+
+## 🧠 Computação Forense e Perícia Digital
+<img src="https://www.svgrepo.com/show/506943/fingerprint-scan.svg" width="90" alt="Biometria Azul"/>
+
+🎓 Pós-graduado em **Computação Forense e Perícia Digital**  
+💼 Atuação como **Assistente Técnico Judicial** e **Consultor em Segurança da Informação**  
+🔍 Experiência sólida em **análise de incidentes**, **auditoria de sistemas** e **investigações digitais complexas**
+
+### 🧰 Ferramentas Forenses
+`Autopsy` • `FTK` • `EnCase` • `IPED` • `Wireshark` • `Volatility` • `YARA` • `Cellebrite` • `Timesketch` • `Ghidra` • `Any.Run`
 
 ---
 
