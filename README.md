@@ -112,6 +112,23 @@ Arquitetura de sistema embarcado para contagem e rastreamento em tempo real de p
 
 ---
 
+---
+## 🧩 Repositórios em Destaque
+
+Aqui estão alguns dos meus principais projetos públicos no GitHub — soluções desenvolvidas nas áreas de **Computação Forense**, **Segurança da Informação** e **Desenvolvimento Backend**.
+
+<p align="center">
+
+🔹 [**Forensics Tools Suite**](https://github.com/andersonandroid/forensics-tools-suite) — Scripts e utilitários para automação de perícia digital.  
+🔹 [**Access Control System (IoT + IA)**](https://github.com/andersonandroid/access-control-system) — Sistema inteligente de gestão e contagem de fluxo com visão computacional.  
+🔹 [**OMR Exam Correction**](https://github.com/andersonandroid/omr-exam-correction) — Solução de correção automática de provas com reconhecimento óptico.  
+🔹 [**Secure API Backend**](https://github.com/andersonandroid/secure-api-backend) — Backend em Python + FastAPI com autenticação Keycloak.  
+🔹 [**Raspberry Forensics Agent**](https://github.com/andersonandroid/raspberry-forensics-agent) — Coleta e análise de evidências digitais em edge devices.  
+
+</p>
+
+---
+
 ## 🌐 Contato
 
 📧 **anderson.santana@apecof.org.br**  
